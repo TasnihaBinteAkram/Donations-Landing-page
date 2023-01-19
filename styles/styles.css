@@ -104,6 +104,9 @@ ul .selected-amount {
 .donate-today .btn-main {
     margin-top: 10px;
 }
+.donate-today > .p1{
+    width: 500px;
+}
 
 .hor {
     margin: 5px 200px;
@@ -111,6 +114,10 @@ ul .selected-amount {
     background-color: #ccc;
     border: none;
     }
+
+.donate-plan > .p1{
+    width: 500px;
+}
 .plans{
     display: flex;
     text-align: left;
